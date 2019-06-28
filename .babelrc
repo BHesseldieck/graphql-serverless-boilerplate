@@ -1,0 +1,19 @@
+{
+  "presets": [
+    [
+      "env",
+      {
+        "targets": {
+          "node": "current"
+        }
+      }
+    ],
+    "jest"
+  ],
+  "plugins": [
+    "transform-inline-environment-variables",
+    "transform-object-rest-spread",
+    "transform-runtime",
+    "transform-class-properties"
+  ]
+}
