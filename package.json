@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@okgrow/graphql-scalars": "^0.4.5",
-    "apollo-server-lambda": "^2.6.4",
+    "apollo-server-lambda": "^2.14.2",
     "babel-polyfill": "6.26.0",
     "babel-runtime": "^6.26.0",
     "dataloader": "^1.4.0",
